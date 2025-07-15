@@ -1,4 +1,4 @@
-# 🎵 Apple iTunes Music Analysis Dashboard
+# 🎵 Apple iTunes Music Store Analysis Project
 
 This project delivers a **comprehensive analysis** of Apple iTunes music data using **Power BI Dashboards**, **MySQL Queries**, and **EDA-driven SQL logic**. The objective is to uncover insights into **revenue performance**, **customer behavior**, **music content trends**, and **employee operations**—empowering strategic decisions across the digital music platform.
 
